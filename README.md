@@ -1,9 +1,9 @@
-- 👋 Olá, eu sou Raphael V.C. tenho 18 anos
+- 👋 Olá, eu sou Raphael V.C. tenho 19 anos
 - 👀 Eu estou muito interessado em desenvolvimento web e banco de dados (Python)
-- 🌱 Eu estou cursando um curso tecnico de programação
+- 🌱 Eu estou cursando Bacharelado em Engenharia de Software na UniAcademia/JF em Minas Gerais
 - 💞️ Eu tenho imteresse em contribuir com os novos programadores e aprender com os profissionais
 - 📫 Email: raphacoelho3790@gmail.com
-- 😄 To muito feliz para começar essa jornada
+- 😄 Minha jornada só está começando...
 - ⚡ Eu amo jogos, animes, filmes e etc.
 
 <!---
